@@ -1,4 +1,4 @@
-package Working_With_Numbers;
+// package Working_With_Numbers;
 import java.util.Scanner;
 // LCM Of Two Numbers - The minimum number which is divisible by both the numbers
 

@@ -1,4 +1,4 @@
-package Working_With_Numbers;
+// package Working_With_Numbers;
 import java.util.Scanner;
 // GCD ( Greatest Common Divisor) - This is same as HCF
 

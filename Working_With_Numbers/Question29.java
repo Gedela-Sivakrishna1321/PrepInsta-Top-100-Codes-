@@ -1,4 +1,4 @@
-package Working_With_Numbers;
+// package Working_With_Numbers;
 import java.util.Scanner;
 
 /*  HCF(Highest Common Factor) - The largest number which divides both the numbers  */
