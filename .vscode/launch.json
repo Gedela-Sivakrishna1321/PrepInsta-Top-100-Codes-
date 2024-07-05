@@ -1,0 +1,385 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Question55",
+            "request": "launch",
+            "mainClass": "Question55",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question1",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question10",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question10",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question11",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question11",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question12",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question12",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question13",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question13",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question14",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question14",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question15",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question15",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question16",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question16",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question17",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question17",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question18",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question18",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question19",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question19",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question2",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question20",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question20",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question21",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question21",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question22",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question22",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question23",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question23",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question24",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question24",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question25",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question25",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question26",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question26",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question27",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question27",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question28",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question28",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question3",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question5",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question6",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question7",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question7",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question8",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question9",
+            "request": "launch",
+            "mainClass": "Basic_Questions.Question9",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question29",
+            "request": "launch",
+            "mainClass": "Question29",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question30",
+            "request": "launch",
+            "mainClass": "Question30",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question31",
+            "request": "launch",
+            "mainClass": "Question31",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question32",
+            "request": "launch",
+            "mainClass": "Question32",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question33",
+            "request": "launch",
+            "mainClass": "Question33",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question34",
+            "request": "launch",
+            "mainClass": "Question34",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question35",
+            "request": "launch",
+            "mainClass": "Question35",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question36",
+            "request": "launch",
+            "mainClass": "Question36",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question37",
+            "request": "launch",
+            "mainClass": "Question37",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question38",
+            "request": "launch",
+            "mainClass": "Question38",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question39",
+            "request": "launch",
+            "mainClass": "Question39",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question40",
+            "request": "launch",
+            "mainClass": "Question40",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question41",
+            "request": "launch",
+            "mainClass": "Question41",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question42",
+            "request": "launch",
+            "mainClass": "Question42",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question43",
+            "request": "launch",
+            "mainClass": "Question43",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question44",
+            "request": "launch",
+            "mainClass": "Question44",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question45",
+            "request": "launch",
+            "mainClass": "Question45",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question47",
+            "request": "launch",
+            "mainClass": "Question47",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question48",
+            "request": "launch",
+            "mainClass": "Question48",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question49",
+            "request": "launch",
+            "mainClass": "Question49",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question50",
+            "request": "launch",
+            "mainClass": "Question50",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question51",
+            "request": "launch",
+            "mainClass": "Question51",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question52",
+            "request": "launch",
+            "mainClass": "Question52",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question53",
+            "request": "launch",
+            "mainClass": "Question53",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question54",
+            "request": "launch",
+            "mainClass": "Question54",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        }
+    ]
+}

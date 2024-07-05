@@ -8,23 +8,31 @@ public class Question54 {
 
         // Find determinent
         int determinent = b*b - 4*a*c;
+        System.out.println("Determinent Value = " + determinent);
         
+        double D = Math.sqrt(Math.abs(determinent));
+        // double r = 2 * a;
+        System.out.println("Sqrt Value = " + D);
         if(determinent == 0) {
             System.out.println("Roots are real and equal");
-            double root = -b / (2 * a);
-            System.out.println("Root 1 - " + root + ", Root 2 - " + root);
+            double root = -(double)b / (2 * a);
+            System.out.println("Root 1 = " + root + "\n" + "Root 2 = " + root);
         }
         else if (determinent > 0) {
             System.out.println("Roots are real and distinct");
-            double root1 = (-b + Math.sqrt(determinent) ) / (2*a);
-            double root2 = (-b - Math.sqrt(determinent)) / (2*a);
-            System.out.println("Root 1 - " + root1 + ", Root 2 - " + root2);
+            double root1 = (-(double)b + D ) / (2*a);
+            double root2 = (-(double)b - D) / (2*a);
+            System.out.println("Root 1 = " + String.format("%.2f", root1) + "\n" + "Root 2 = " + String.format("%.2f", root2));
         }
         else {
             System.out.println("Roots are imaginary ");
-            double real = -b / (2*a);
-            double imaginary = Math.sqrt(determinent) / (2 * a);
-            System.out.println("Root 1 - " + real + " + " + imaginary + "i " + "Root 2 - " + real + " - " + imaginary + "i ");
+            System.out.println("Real Value Part = " + -b / (2*a));
+            double real = -(double)b / (2*a);
+            // double imaginary = D / (2 * a);
+            // System.out.println("Root 1 = " + real + " + " + String.format("%.2f", D)+ " i" );
+            // System.out.println("Root 2 = " + real + " - " + String.format("%.2f", D)+ " i" );
+            System.out.printf("Root 1 = %.2f + %.2f i %n", real, D);
+            System.out.printf("Root 2 = %.2f - %.2f i %n", real, D);
 
         }
 
