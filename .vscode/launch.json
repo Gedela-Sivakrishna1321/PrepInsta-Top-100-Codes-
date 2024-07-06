@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question58",
+            "request": "launch",
+            "mainClass": "Recursion.Question58",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question57",
+            "request": "launch",
+            "mainClass": "Recursion.Question57",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question56",
+            "request": "launch",
+            "mainClass": "Recursion.Question56",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question55",
             "request": "launch",
             "mainClass": "Question55",
