@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question62",
+            "request": "launch",
+            "mainClass": "Recursion.Question62",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question61",
             "request": "launch",
             "mainClass": "Recursion.Question61",
