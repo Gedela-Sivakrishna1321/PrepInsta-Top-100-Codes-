@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question93",
+            "request": "launch",
+            "mainClass": "Arrays.Question93",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question92",
+            "request": "launch",
+            "mainClass": "Arrays.Question92",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question91",
+            "request": "launch",
+            "mainClass": "Arrays.Question91",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question90",
+            "request": "launch",
+            "mainClass": "Arrays.Question90",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question89",
+            "request": "launch",
+            "mainClass": "Arrays.Question89",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question88",
+            "request": "launch",
+            "mainClass": "Question88",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question87",
+            "request": "launch",
+            "mainClass": "Question87",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question86",
+            "request": "launch",
+            "mainClass": "Question86",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question85",
+            "request": "launch",
+            "mainClass": "Question85",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question84",
             "request": "launch",
             "mainClass": "Question84",
