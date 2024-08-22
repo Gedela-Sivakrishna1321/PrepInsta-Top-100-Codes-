@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question100",
+            "request": "launch",
+            "mainClass": "Arrays.Question100",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question99",
+            "request": "launch",
+            "mainClass": "Arrays.Question99",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question98",
+            "request": "launch",
+            "mainClass": "Arrays.Question98",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question97",
+            "request": "launch",
+            "mainClass": "Arrays.Question97",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question96",
+            "request": "launch",
+            "mainClass": "Arrays.Question96",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question95",
+            "request": "launch",
+            "mainClass": "Arrays.Question95",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question94",
+            "request": "launch",
+            "mainClass": "Arrays.Question94",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question93",
             "request": "launch",
             "mainClass": "Arrays.Question93",
