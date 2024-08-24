@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question105",
+            "request": "launch",
+            "mainClass": "Arrays.Question105",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question102",
+            "request": "launch",
+            "mainClass": "Arrays.Question102",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question101",
+            "request": "launch",
+            "mainClass": "Arrays.Question101",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question100",
             "request": "launch",
             "mainClass": "Arrays.Question100",
