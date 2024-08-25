@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question115",
+            "request": "launch",
+            "mainClass": "Strings.Question115",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question114",
+            "request": "launch",
+            "mainClass": "Strings.Question114",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question113",
+            "request": "launch",
+            "mainClass": "Strings.Question113",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question112",
+            "request": "launch",
+            "mainClass": "Strings.Question112",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question111",
+            "request": "launch",
+            "mainClass": "Strings.Question111",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question110",
+            "request": "launch",
+            "mainClass": "Strings.Question110",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question109",
+            "request": "launch",
+            "mainClass": "Strings.Question109",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question108",
+            "request": "launch",
+            "mainClass": "Strings.Question108",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question107",
+            "request": "launch",
+            "mainClass": "Strings.Question107",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question106",
+            "request": "launch",
+            "mainClass": "Strings.Question106",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question105",
             "request": "launch",
             "mainClass": "Arrays.Question105",
