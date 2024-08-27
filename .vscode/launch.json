@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question123",
+            "request": "launch",
+            "mainClass": "Strings.Question123",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question122",
+            "request": "launch",
+            "mainClass": "Strings.Question122",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question121",
+            "request": "launch",
+            "mainClass": "Strings.Question121",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question120",
+            "request": "launch",
+            "mainClass": "Strings.Question120",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question119",
+            "request": "launch",
+            "mainClass": "Strings.Question119",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question118",
+            "request": "launch",
+            "mainClass": "Strings.Question118",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question117",
+            "request": "launch",
+            "mainClass": "Strings.Question117",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question116",
+            "request": "launch",
+            "mainClass": "Strings.Question116",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question115",
             "request": "launch",
             "mainClass": "Strings.Question115",
