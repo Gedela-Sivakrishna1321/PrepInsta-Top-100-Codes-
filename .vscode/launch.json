@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question131",
+            "request": "launch",
+            "mainClass": "Advance_Arrays.Question131",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question130",
+            "request": "launch",
+            "mainClass": "Advance_Arrays.Question130",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question129",
+            "request": "launch",
+            "mainClass": "Advance_Arrays.Question129",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question128",
+            "request": "launch",
+            "mainClass": "Advance_Arrays.Question128",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
+            "name": "Question124",
+            "request": "launch",
+            "mainClass": "Strings.Question124",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question123",
             "request": "launch",
             "mainClass": "Strings.Question123",
