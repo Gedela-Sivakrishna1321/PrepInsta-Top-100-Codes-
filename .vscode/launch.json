@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Question132",
+            "request": "launch",
+            "mainClass": "Advance_Arrays.Question132",
+            "projectName": "PrepInsta Top 100 Codes_e322df0d"
+        },
+        {
+            "type": "java",
             "name": "Question131",
             "request": "launch",
             "mainClass": "Advance_Arrays.Question131",
